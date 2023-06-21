@@ -1,0 +1,6 @@
+jsonpickle
+cachetools
+pytest
+setuptools
+unittest2
+geopy

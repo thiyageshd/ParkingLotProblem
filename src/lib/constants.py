@@ -1,0 +1,13 @@
+SMALL_PARKING_AREA = "Small_Parking"
+MALL = "Mall"
+STADIUM = "Stadium"
+AIRPORT = "Airport"
+LWM = "Car/SUV"
+HWM = "Bus/Truck"
+MOTORCYCLE = "Motorcycle"
+AIRPORT = "Airport"
+VEHICLE_TYPES = [MOTORCYCLE, LWM, HWM]
+NO_SPACE = "No space available"
+INVALID_VEHICLE_PARK = "Invalid Vehicle to Park in this area"
+INVALID_VEHICLE_UNPARK = "Invalid Vehicle to Unpark in this area"
+ISSUE_WITH_SPOT_ALLOCATION = "Issue with Spot allocation. Please contact Admin"
